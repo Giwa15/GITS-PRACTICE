@@ -1,1 +1,3 @@
 Alihamdulilahi,Allah please make it easy for me to hone my skills.
+git branch command tells you your current branch by putting an asterisks in front of it.
+git checkout branchname is for swtching between branches
